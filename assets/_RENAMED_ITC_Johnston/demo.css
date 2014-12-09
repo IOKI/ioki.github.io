@@ -1,0 +1,75 @@
+@font-face{
+font-family:"Johnston ITC W02 Light";
+src:url("Fonts/JohnstonITCW02Light.eot?#iefix");
+src:url("Fonts/JohnstonITCW02Light.eot?#iefix") format("eot"),url("Fonts/JohnstonITCW02Light.woff") format("woff"),url("Fonts/JohnstonITCW02Light.ttf") format("truetype"),url("Fonts/JohnstonITCW02Light.svg#JohnstonITCW02Light") format("svg");
+}
+@font-face{
+font-family:"Johnston ITC W01 Light";
+src:url("Fonts/JohnstonITCW01Light.eot?#iefix");
+src:url("Fonts/JohnstonITCW01Light.eot?#iefix") format("eot"),url("Fonts/JohnstonITCW01Light.woff") format("woff"),url("Fonts/JohnstonITCW01Light.ttf") format("truetype"),url("Fonts/JohnstonITCW01Light.svg#JohnstonITCW01Light") format("svg");
+}
+@font-face{
+font-family:"JohnstonITCW01-LightIta";
+src:url("Fonts/JohnstonITCW01-LightIta.eot?#iefix");
+src:url("Fonts/JohnstonITCW01-LightIta.eot?#iefix") format("eot"),url("Fonts/JohnstonITCW01-LightIta.woff") format("woff"),url("Fonts/JohnstonITCW01-LightIta.ttf") format("truetype"),url("Fonts/JohnstonITCW01-LightIta.svg#JohnstonITCW01-LightIta") format("svg");
+}
+@font-face{
+font-family:"JohnstonITCW02-LightIta";
+src:url("Fonts/JohnstonITCW02-LightIta.eot?#iefix");
+src:url("Fonts/JohnstonITCW02-LightIta.eot?#iefix") format("eot"),url("Fonts/JohnstonITCW02-LightIta.woff") format("woff"),url("Fonts/JohnstonITCW02-LightIta.ttf") format("truetype"),url("Fonts/JohnstonITCW02-LightIta.svg#JohnstonITCW02-LightIta") format("svg");
+}
+@font-face{
+font-family:"Johnston ITC W01 Medium";
+src:url("Fonts/JohnstonITCW01Medium.eot?#iefix");
+src:url("Fonts/JohnstonITCW01Medium.eot?#iefix") format("eot"),url("Fonts/JohnstonITCW01Medium.woff") format("woff"),url("Fonts/JohnstonITCW01Medium.ttf") format("truetype"),url("Fonts/JohnstonITCW01Medium.svg#JohnstonITCW01Medium") format("svg");
+}
+@font-face{
+font-family:"Johnston ITC W02 Medium";
+src:url("Fonts/JohnstonITCW02Medium.eot?#iefix");
+src:url("Fonts/JohnstonITCW02Medium.eot?#iefix") format("eot"),url("Fonts/JohnstonITCW02Medium.woff") format("woff"),url("Fonts/JohnstonITCW02Medium.ttf") format("truetype"),url("Fonts/JohnstonITCW02Medium.svg#JohnstonITCW02Medium") format("svg");
+}
+@font-face{
+font-family:"JohnstonITCW01-MediumIt";
+src:url("Fonts/JohnstonITCW01-MediumIt.eot?#iefix");
+src:url("Fonts/JohnstonITCW01-MediumIt.eot?#iefix") format("eot"),url("Fonts/JohnstonITCW01-MediumIt.woff") format("woff"),url("Fonts/JohnstonITCW01-MediumIt.ttf") format("truetype"),url("Fonts/JohnstonITCW01-MediumIt.svg#JohnstonITCW01-MediumIt") format("svg");
+}
+@font-face{
+font-family:"JohnstonITCW02-MediumIt";
+src:url("Fonts/JohnstonITCW02-MediumIt.eot?#iefix");
+src:url("Fonts/JohnstonITCW02-MediumIt.eot?#iefix") format("eot"),url("Fonts/JohnstonITCW02-MediumIt.woff") format("woff"),url("Fonts/JohnstonITCW02-MediumIt.ttf") format("truetype"),url("Fonts/JohnstonITCW02-MediumIt.svg#JohnstonITCW02-MediumIt") format("svg");
+}
+@font-face{
+font-family:"Johnston ITC W01 Bold";
+src:url("Fonts/JohnstonITCW01Bold.eot?#iefix");
+src:url("Fonts/JohnstonITCW01Bold.eot?#iefix") format("eot"),url("Fonts/JohnstonITCW01Bold.woff") format("woff"),url("Fonts/JohnstonITCW01Bold.ttf") format("truetype"),url("Fonts/JohnstonITCW01Bold.svg#JohnstonITCW01Bold") format("svg");
+}
+@font-face{
+font-family:"Johnston ITC W02 Bold";
+src:url("Fonts/JohnstonITCW02Bold.eot?#iefix");
+src:url("Fonts/JohnstonITCW02Bold.eot?#iefix") format("eot"),url("Fonts/JohnstonITCW02Bold.woff") format("woff"),url("Fonts/JohnstonITCW02Bold.ttf") format("truetype"),url("Fonts/JohnstonITCW02Bold.svg#JohnstonITCW02Bold") format("svg");
+}
+@font-face{
+font-family:"JohnstonITCW02-BoldItal";
+src:url("Fonts/JohnstonITCW02-BoldItal.eot?#iefix");
+src:url("Fonts/JohnstonITCW02-BoldItal.eot?#iefix") format("eot"),url("Fonts/JohnstonITCW02-BoldItal.woff") format("woff"),url("Fonts/JohnstonITCW02-BoldItal.ttf") format("truetype"),url("Fonts/JohnstonITCW02-BoldItal.svg#JohnstonITCW02-BoldItal") format("svg");
+}
+@font-face{
+font-family:"JohnstonITCW01-BoldItal";
+src:url("Fonts/JohnstonITCW01-BoldItal.eot?#iefix");
+src:url("Fonts/JohnstonITCW01-BoldItal.eot?#iefix") format("eot"),url("Fonts/JohnstonITCW01-BoldItal.woff") format("woff"),url("Fonts/JohnstonITCW01-BoldItal.ttf") format("truetype"),url("Fonts/JohnstonITCW01-BoldItal.svg#JohnstonITCW01-BoldItal") format("svg");
+}
+@font-face{
+font-family:"ITC Johnston W01 Lt SC";
+src:url("Fonts/ITCJohnstonW01LtSC.eot?#iefix");
+src:url("Fonts/ITCJohnstonW01LtSC.eot?#iefix") format("eot"),url("Fonts/ITCJohnstonW01LtSC.woff") format("woff"),url("Fonts/ITCJohnstonW01LtSC.ttf") format("truetype"),url("Fonts/ITCJohnstonW01LtSC.svg#ITCJohnstonW01LtSC") format("svg");
+}
+@font-face{
+font-family:"ITC Johnston W01 Md SC";
+src:url("Fonts/ITCJohnstonW01MdSC.eot?#iefix");
+src:url("Fonts/ITCJohnstonW01MdSC.eot?#iefix") format("eot"),url("Fonts/ITCJohnstonW01MdSC.woff") format("woff"),url("Fonts/ITCJohnstonW01MdSC.ttf") format("truetype"),url("Fonts/ITCJohnstonW01MdSC.svg#ITCJohnstonW01MdSC") format("svg");
+}
+@font-face{
+font-family:"ITC Johnston W01 Bd SC";
+src:url("Fonts/ITCJohnstonW01BdSC.eot?#iefix");
+src:url("Fonts/ITCJohnstonW01BdSC.eot?#iefix") format("eot"),url("Fonts/ITCJohnstonW01BdSC.woff") format("woff"),url("Fonts/ITCJohnstonW01BdSC.ttf") format("truetype"),url("Fonts/ITCJohnstonW01BdSC.svg#ITCJohnstonW01BdSC") format("svg");
+}
